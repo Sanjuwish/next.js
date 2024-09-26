@@ -7,7 +7,7 @@
   },
   "dependencies": {
     "classnames": "2.3.1",
-    "date-fns": "2.28.0",
+    "date-fns": "2.30.0",
     "next": "latest",
     "next-drupal": "latest",
     "react": "18.2.0",
